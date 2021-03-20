@@ -1,13 +1,13 @@
 body{
     margin:0;
-    background-color: #fafafa;
-    font-family: 'Times New Roman', Times, serif;
+    background-color: #f7e7c47d;
+    font-family: 'Vollkorn', serif;
     font-size: 20px;
     line-height: 30px;
 }
 
 header{
-    background-color: aquamarine ;
+    background-color: #018073 ;
     text-align: center;
     padding-top:50px;
     padding-bottom: 10px;
@@ -15,11 +15,11 @@ header{
 }
 
 header h1{
-    color:purple;
+    color:#ffff9b;
     font-size: 50px;
 }
 h1, h2 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Vollkorn', serif;
 }
 
 header img{
@@ -27,12 +27,13 @@ header img{
     height:300px;
     border-radius: 160px;
     object-fit: cover;
-    border: 10px solid purple;
+    border: 10px solid #ffff9b;
 }
 
 main{
     max-width: 800px;
     margin:0 auto;
+    color:#501312;
 }
 
 main img{
@@ -40,31 +41,31 @@ main img{
 }
 
 h2{
-    color:seagreen;
+    color: #018073;
     margin-bottom: -10px;
     margin-top: 10px;
 }
 
 a{
-    color:seagreen;
+    color:#501312;
     text-decoration: none;
 }
 
 a:hover{
-    color:purple;
+    color:#018073;
     text-decoration: underline;
 }
 
 footer {
-    background-color: aquamarine;
+    background-color: #018073;
     text-align: center;
-    color: brown;
+    color: #ffff9b;
     padding: 50px;
     box-shadow: 0 -3px 10px 3px #888;
 }
 
 .caption{
-    color: #888;
+    color: #501312e0;
     font-size: 18px;
     margin-top: -10px;
 }
